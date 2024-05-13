@@ -15,7 +15,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 60px;
     color: green;
-        text-align: center;
+    text-align: center;
 
 }
 
@@ -23,20 +23,20 @@ body {
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-stretch: expanded;
-        text-align: center;
+    text-align: center;
 }
 
 .p2 {
     font-stretch: expanded;
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        text-align: center;
+    text-align: center;
 
 }
 
 .p3 {
     font-size: x-large;
 line-height: 70px;
-        text-align: center;
+    text-align: center;
 
 }
