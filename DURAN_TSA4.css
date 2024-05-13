@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/009/924/605/small_2x/green-aesthetic-abstract-minimal-background-perfect-for-wallpaper-backdrop-postcard-background-vector.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-right: 200px;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+.Heading {
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 60px;
+    color: green;
+
+}
+
+.p1 {
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-stretch: expanded;
+}
+
+.p2 {
+    font-stretch: expanded;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.p3 {
+    font-size: x-large;
+line-height: 70px;
+
+}
