@@ -1,0 +1,111 @@
+.container {
+    width: 26vw;
+    height: 74vh;
+    background-image: url('./card background.png'); /* Ensure the path is correct */
+    background-size: cover;
+    text-align: center;
+    box-shadow: 10px 10px 1px rgb(93, 94, 93);
+    border: 2px solid rgb(29, 29, 179); /* Added 'solid' for the border */
+    border-radius: 5%;
+    display: inline-block;
+    margin: 5rem;
+    overflow: hidden;
+}
+
+.image {
+    padding: 60px 0 0 80px;
+    width: 10vw;
+    height: 20vw;
+    margin: auto;
+}
+
+.information {
+    border-radius: 15px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    font-weight: bold;
+    text-align: center;
+    height: 250px;
+    width: 487px;
+    margin: 5% auto;
+}
+
+.bg1 { background-color: rgb(163, 21, 21); }
+.bg2 { background-color: aqua; }
+.bg3 { background-color: rgb(43, 107, 68); }
+.bg4 { background-color: rgb(184, 184, 184); }
+.bg5 { background-color: rgb(232, 255, 103); }
+.bg6 { background-color: rgb(46, 11, 46); }
+
+.fire {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px darkred;
+    color: rgb(0, 0, 0);
+    background-color: rgb(241, 89, 89);
+    box-shadow: 2px 2px 1px grey;
+}
+
+.flying {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px blue;
+    color: lightblue;
+    background-color: rgb(102, 102, 148);
+    box-shadow: 2px 2px 1px grey;
+}
+
+.water {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px blue;
+    color: rgb(9, 49, 63);
+    background-color: rgb(1, 1, 119);
+    box-shadow: 2px 2px 1px grey;
+}
+
+.bug {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px rgb(0, 54, 38);
+    color: rgb(53, 99, 89);
+    background-color: rgb(0, 116, 52);
+    box-shadow: 2px 2px 1px grey;
+}
+
+.normal {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px rgb(54, 54, 54);
+    color: rgb(252, 252, 252);
+    background-color: rgb(88, 88, 88);
+    box-shadow: 2px 2px 1px rgb(44, 44, 44);
+}
+
+.electric {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px rgb(211, 235, 0);
+    color: rgb(95, 112, 0);
+    background-color: rgb(200, 255, 0);
+    box-shadow: 2px 2px 1px grey;
+}
+
+.poison {
+    padding: 5px 8px;
+    text-shadow: 2px 2px 1px rgb(26, 0, 24);
+    color: rgb(174, 0, 255);
+    background-color: rgb(78, 0, 102);
+    box-shadow: 2px 2px 1px grey;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+/* TEXT STYLES */
+.name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.desc {
+    font-family: cursive;
+}
+
+.type {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
